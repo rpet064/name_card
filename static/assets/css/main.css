@@ -15,30 +15,11 @@ html, body,{
 	font: inherit;
 	vertical-align: baseline;}
 
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
 
-body {
-	-webkit-text-size-adjust: none;
-}
-
-mark {
-	background-color: transparent;
-	color: inherit;
-}
-
-input::-moz-focus-inner {
-	border: 0;
-	padding: 0;
-}
-
-input, select, textarea {
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	-ms-appearance: none;
-	appearance: none;
+h2, p span {
+    display: block;
+    text-align:center;
+    padding: 0.5%;
 }
 
 /* Row */
